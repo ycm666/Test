@@ -22,6 +22,9 @@ public class MyMain {
 		//수정내용
 		System.out.println(scan.next());
 		
+		//Hangul Broken
+		//가나다라
+		System.out.println(scan.next());
 	}
 
 }
