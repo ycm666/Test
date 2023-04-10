@@ -19,7 +19,8 @@ public class MyMain {
 		System.out.println(scan.next());
 		System.out.println(scan.next());
 		
-		
+		//수정내용
+		System.out.println(scan.next());
 		
 	}
 
