@@ -25,6 +25,9 @@ public class MyMain {
 		//Hangul Broken
 		//가나다라
 		System.out.println(scan.next());
+		
+		//한글깨짐해결?
+		
 	}
 
 }
